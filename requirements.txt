@@ -1,0 +1,30 @@
+# Core MCP and AI dependencies
+mcp>=1.10.1
+fastmcp>=2.10.1
+groq>=0.29.0
+openai>=1.93.0
+
+# Data processing and ML
+pandas>=2.3.0
+joblib>=1.5.1
+scikit-learn>=1.7.0
+numpy>=2.3.1
+
+# API and web requests
+requests>=2.32.4
+httpx>=0.28.1
+
+# Environment and configuration
+python-dotenv>=1.1.1
+
+# Search and web scraping services
+tavily-python>=0.7.9
+firecrawl-py>=2.15.0
+
+# Async and networking
+aiohttp>=3.12.14
+asyncio-compat>=0.1.2
+
+# Optional: For enhanced features
+beautifulsoup4>=4.13.4
+pydantic>=2.11.7
