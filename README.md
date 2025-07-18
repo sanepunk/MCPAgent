@@ -1,4 +1,4 @@
-# 🌤️ MCP Weather Forecasting Agent
+# 🌤️ MCP  Agent
 
 A sophisticated **Model Context Protocol (MCP)** agent that provides advanced weather forecasting capabilities using machine learning models, real-time weather data, and multiple AI tools integrated through the MCP framework.
 
